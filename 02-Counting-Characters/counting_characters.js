@@ -10,7 +10,8 @@ here
 */
 
 //insert your code below
-var some_String = window.prompt("Hey, Inserisci qual che stringa");
-var legth_of_String = some_String.length;
-console.log(some_String );
-console.log(some_String );
+some_string = window.prompt('Enter any String');
+
+window.alert(some_string);
+
+window.alert(some_string.length)
